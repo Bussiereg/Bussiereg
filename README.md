@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on various project related new technology such as Blockchain or AI.
 - 💬 Ask me about science or mountain sports.
 - 📫 How to reach me: guillaume.bussiere@live.fr
-- ⚡ Fun fact: you can call me Bill if Guillaume is too complicated.
+- ⚡ Fun fact: you can call me Bill if Guillaume is too complicated to pronounce.
