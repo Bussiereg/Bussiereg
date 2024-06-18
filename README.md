@@ -7,7 +7,7 @@
 - 📫 How to reach me: guillaume.bussiere@live.fr
 - ⚡ Fun fact: you can call me Bill if Guillaume is too complicated to pronounce.
 
-## 🌟 Main projects
+## ☀️ Main projects
 
 - 🏓 **[Transcendence](https://github.com/Bussiereg/ft_transcendence)**
   - The final project of the 42 curriculum! Host a web application that lets you remotely play against others the classic Pong game.
@@ -15,13 +15,13 @@
   - Storing the scores on a Blockchain using smart contract.
   
 - 🤖 **[IRC](https://github.com/Bussiereg/ft_IRC)**
-  - Building an Internet RelaY Chat (IRC) server in C++.
+  - Building an Internet Relay Chat (IRC) server in C++.
   - Implementing JOIN, KICK, INVITE, MODE, PART, QUIT as functionnalies of our server according to the IRC protocol.
   - Creating two chatbots, one for playing and another one with the openAI API.
 
 - 🌀 **[Inception](https://github.com/Bussiereg/inception)**
   - Setting a lEMP stack(Linux, NGINX, MySQL, PHP) with Docker.
-  - Deploying a multi-container application with Docker commpose.
+  - Deploying a multi-container application with Docker compose.
   
 - 🐚 **[Minishell](https://github.com/Bussiereg/Minishell)**
   - Development of a Command-line interpreter in C.
@@ -32,7 +32,7 @@
   - Use of a graphical library.
 
 
-## 🌙 Minor projects (still interesting :wink:)
+## 🌙 Minor projects (still interesting 😉)
 - 💠 **[fractol](https://github.com/Bussiereg/fractol)**
   - A fractal explorer coded in C.
   - Two available fractals: Mandelbrot and Julia sets.
