@@ -9,8 +9,8 @@
 
 ## ☀️ Main projects
 
-- 🏓 **[Transcendence]** - The project is till in development, I will add the link when we will release our first version.
-  - The final project of the 42 curriculum! Host a web application that lets you remotely play against others the classic Pong game.
+- 🏓 **Transcendence** - The project is still in development, I will add the link when our first release is ready.
+  - The final project of the 42 core curriculum! Web application that lets you remotely play against others the classic Pong game.
   - Deploying and managing the application flow with Docker. Developing the backend using Python/Django.
   - Storing the scores on a Blockchain using smart contract.
   
