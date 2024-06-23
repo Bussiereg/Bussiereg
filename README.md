@@ -1,6 +1,6 @@
 # About me
 
-- 🔭 I’m currently working on Transcendence which is the last project of 42 core corriculum.
+- 🔭 I’m currently working on Transcendence which is the last project of the 42 core corriculum.
 - 🌱 At the moment I am learning how to deploy a smart contract on the Ethereum Blockchain.
 - 👯 I’m looking to collaborate on various project related new technology such as Blockchain or AI.
 - 💬 Ask me about science or mountain sports.
@@ -9,7 +9,7 @@
 
 ## ☀️ Main projects
 
-- 🏓 **[Transcendence](https://github.com/Bussiereg/ft_transcendence)**
+- 🏓 **[Transcendence]** - The project is till in development, I will add the link when we will release our first version.
   - The final project of the 42 curriculum! Host a web application that lets you remotely play against others the classic Pong game.
   - Deploying and managing the application flow with Docker. Developing the backend using Python/Django.
   - Storing the scores on a Blockchain using smart contract.
@@ -25,15 +25,15 @@
   
 - 🐚 **[Minishell](https://github.com/Bussiereg/Minishell)**
   - Development of a Command-line interpreter in C.
-  - Process management and Unix signals hangler.
+  - it involves process management and Unix signals handler.
     
 - 🕹️ **[Cub3D](https://github.com/Bussiereg/cub3D)**
-  - 3D game based on the raycasting method like Wolfenstein3D of Doom.
+  - 3D game based on the raycasting method like Wolfenstein3D or Doom.
   - Use of a graphical library.
 
 
 ## 🌙 Minor projects (still interesting 😉)
-- 💠 **[fractol](https://github.com/Bussiereg/fractol)**
+- 💠 **[fract-ol](https://github.com/Bussiereg/fractol)**
   - A fractal explorer coded in C.
   - Two available fractals: Mandelbrot and Julia sets.
 - 🍝 **[Philosopher](https://github.com/Bussiereg/Philosophers)**
