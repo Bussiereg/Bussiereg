@@ -1,18 +1,18 @@
 # About me
 
-- 🔭 I’m currently working on Transcendence which is the last project of the 42 core corriculum.
-- 🌱 At the moment I am learning how to deploy a smart contract on the Ethereum Blockchain.
-- 👯 I’m looking to collaborate on various project related new technology such as Blockchain or AI.
+- 🔭 I have just finished the core-curriculum of 42 Berlin.
+- 🌱 At the moment I am learning for an internship as Sofware engineer of in cybersecurity.
 - 💬 Ask me about science or mountain sports.
 - 📫 How to reach me: guillaume.bussiere@live.fr
 - ⚡ Fun fact: you can call me Bill if Guillaume is too complicated to pronounce.
 
 ## ☀️ Main projects
 
-- 🏓 **Transcendence** - The project is still in development, I will add the link when our first release is ready.
+- 🏓 **[Transcendence](https://github.com/Bussiereg/ft_transcendence)**
   - The final project of the 42 core curriculum! Web application that lets you remotely play against others the classic Pong game.
   - Deploying and managing the application flow with Docker. Developing the backend using Python/Django.
   - Storing the scores on a Blockchain using smart contract.
+  - Solo mode that involves an AI with different levels.
   
 - 🤖 **[IRC](https://github.com/Bussiereg/ft_IRC)**
   - Building an Internet Relay Chat (IRC) server in C++.
