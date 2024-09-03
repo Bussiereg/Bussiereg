@@ -1,10 +1,10 @@
 # About me
 
 - 🔭 I have just finished the core-curriculum of 42 Berlin.
-- 🌱 At the moment I am learning for an internship as Sofware engineer of in cybersecurity.
+- 🌱 At the moment I am following german courses with C1 level.
 - 💬 Ask me about science or mountain sports.
 - 📫 How to reach me: guillaume.bussiere@live.fr
-- ⚡ Fun fact: you can call me Bill if Guillaume is too complicated to pronounce.
+- ⚡ I am actively looking for an internship or junior position as a software engineer.
 
 ## ☀️ Main projects
 
