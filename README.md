@@ -1,10 +1,11 @@
 # About me
 
 - 🔭 I have just finished the core-curriculum of 42 Berlin.
-- 🌱 At the moment I am following german courses with C1 level.
+- 🌱 At the moment I am learning how to develop in Salesforce with Apex and I am following german courses (C1 level).
 - 💬 Ask me about science or mountain sports.
 - 📫 How to reach me: guillaume.bussiere@live.fr
 - ⚡ I am actively looking for an internship or junior position as a software engineer.
+- 🤡 Fun fact: My first name is pronounced "Giyom"
 
 ## ☀️ Main projects
 
